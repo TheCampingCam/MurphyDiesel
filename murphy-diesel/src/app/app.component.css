@@ -1,8 +1,9 @@
 #header-three {
-    color: black;
+    color: rgb(230, 221, 221);
     padding-top: 1rem;
 }
 
 #main-paragraph {
     padding-top: 0;
+    color: rgb(230, 221, 221);
 } 

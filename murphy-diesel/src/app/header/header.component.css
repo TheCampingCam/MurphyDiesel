@@ -1,6 +1,6 @@
 #header {
     margin-top: 0;
-    color: darkcyan;
+    color: rgb(230, 221, 221);
     height: 1rem;
     text-align: center;
 }
@@ -39,7 +39,4 @@
     border: 1px solid black;
     border-left: none;
     border-right: none;
-}
-.page {
-    background: rgb(204,204,204);
 }
