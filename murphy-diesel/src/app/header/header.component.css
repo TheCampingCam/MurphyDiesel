@@ -14,14 +14,15 @@
 
 #main-nav li {
     display: inline-block;
-    padding-right: 2px;
+    padding-right: 5px;
+    padding-bottom: 3px;
 }
 
 #main-nav a {
     color: white;
     background-color: gray;
     padding: 5px;
-    padding-left:10px;
+    padding-left: 10px;
     border-radius: 2px;
     text-decoration: none;
 }
