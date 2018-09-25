@@ -8,15 +8,15 @@
 #main-nav {
     margin-top: 0;
     list-style: none;
-    padding-left: 0;
     width: 100%;
-    padding: 5px;
+    padding-left: 8%;
+    padding-top: 2%
 }
 
 #main-nav li {
     display: inline-block;
     padding-right: 5px;
-    padding-bottom: 3px;
+    padding-left: 8px;
 }
 
 #main-nav a {
@@ -26,6 +26,7 @@
     padding-left: 10px;
     border-radius: 2px;
     text-decoration: none;
+    font-size: 20pt;
 }
 
 #main-nav li :hover {
